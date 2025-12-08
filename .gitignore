@@ -1,0 +1,25 @@
+# Data files
+data/
+*.zip
+*.csv
+*.parquet
+
+# Build outputs
+*.o
+*.exe
+*.out
+weather_analysis
+weather_analysis_omp
+weather_analysis_mpi
+weather_analysis_cuda
+
+# Results and outputs
+results/
+graphs/
+reports/
+
+# System files
+.DS_Store
+*.swp
+*.swo
+*~
